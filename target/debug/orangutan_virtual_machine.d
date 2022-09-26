@@ -1,0 +1,1 @@
+D:\Repos\orangutan_virtual_machine\target\debug\orangutan_virtual_machine.exe: D:\Repos\orangutan_virtual_machine\src\main.rs D:\Repos\orangutan_virtual_machine\src\vm\assembler.rs D:\Repos\orangutan_virtual_machine\src\vm\lexer.rs D:\Repos\orangutan_virtual_machine\src\vm\ovm.rs D:\Repos\orangutan_virtual_machine\src\vm\parser.rs D:\Repos\orangutan_virtual_machine\src\vm.rs

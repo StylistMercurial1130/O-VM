@@ -1,0 +1,10 @@
+_start:
+	push 0
+	push #ff
+	halt
+	push VALUE
+_exit:
+	push 1
+	push 0
+	halt
+	push 2
