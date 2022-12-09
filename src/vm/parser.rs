@@ -33,19 +33,5 @@ impl Scanner {
         }     
     }
 
-    fn peek(&self) -> TokenType {
-        let current_token_type =  
-            self.scanner_token_list[self.scanner_current_token_position].token_type;
-        self.scanner_current_token_position += 1;
-        return current_token_type;
-    }
-   
-    pub fn parse(&self) -> Box<Node> {
-        let head_node = Node::new();
-        match self.peek() {
-            _ => {}
-        }
-        
-    }     
-
+  
 }
